@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 8 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
@@ -23,6 +24,12 @@
 - [strings](#strings) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/aktftsilentwizard17/Arnav_CP/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### brute force
 
