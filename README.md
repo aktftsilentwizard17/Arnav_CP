@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/aktftsilentwizard17/Arnav_CP/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/aktftsilentwizard17/Arnav_CP/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/aktftsilentwizard17/Arnav_CP/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ### brute force
 
